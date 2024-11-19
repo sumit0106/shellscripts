@@ -12,9 +12,9 @@ then
  echo "a is greater than b"
 elif [ $a -lt $b ]
 then
- echo "a is less than b"
+ echo "A IS LESS THAN B"
 else
- echo "None of the condition met"
+ echo "NONE OF THE CONDITION IS MET"
 fi
 
 echo "I have changed this branch"
